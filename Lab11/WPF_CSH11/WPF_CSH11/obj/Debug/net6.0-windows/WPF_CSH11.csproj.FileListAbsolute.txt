@@ -1,0 +1,42 @@
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.exe
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.deps.json
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.runtimeconfig.json
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.dll
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.pdb
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11_MarkupCompile.cache
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11_MarkupCompile.lref
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.g.resources
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.AssemblyInfo.cs
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.dll
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\refint\WPF_CSH11.dll
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.pdb
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.genruntimeconfig.cache
+C:\Users\User\source\repos\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\ref\WPF_CSH11.dll
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.exe
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.deps.json
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.runtimeconfig.json
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.dll
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\bin\Debug\net6.0-windows\WPF_CSH11.pdb
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11_MarkupCompile.cache
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11_MarkupCompile.lref
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.g.resources
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.AssemblyInfo.cs
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.dll
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\refint\WPF_CSH11.dll
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.pdb
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\WPF_CSH11.genruntimeconfig.cache
+C:\Users\User\Desktop\Доки\1.ПГНИУ\2022-2023\2 трим 2023 года\С#\Отчёты\C_Sharp2023\Lab11\WPF_CSH11\WPF_CSH11\obj\Debug\net6.0-windows\ref\WPF_CSH11.dll
