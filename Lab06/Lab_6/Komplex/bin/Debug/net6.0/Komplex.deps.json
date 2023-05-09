@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Komplex/1.0.0": {
+        "dependencies": {
+          "Calculator": "1.0.0",
+          "Nomber": "1.0.0"
+        },
+        "runtime": {
+          "Komplex.dll": {}
+        }
+      },
+      "Calculator/1.0.0": {
+        "dependencies": {
+          "Nomber": "1.0.0"
+        },
+        "runtime": {
+          "Calculator.dll": {}
+        }
+      },
+      "Nomber/1.0.0": {
+        "runtime": {
+          "Nomber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Komplex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nomber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
