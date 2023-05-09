@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Komplex\Results\bin\Debug\net6.0\Nomber.deps.json
+C:\Users\User\source\repos\Komplex\Results\bin\Debug\net6.0\Nomber.dll
+C:\Users\User\source\repos\Komplex\Results\bin\Debug\net6.0\Nomber.pdb
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.AssemblyInfo.cs
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.dll
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\refint\Nomber.dll
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\Nomber.pdb
+C:\Users\User\source\repos\Komplex\Results\obj\Debug\net6.0\ref\Nomber.dll
