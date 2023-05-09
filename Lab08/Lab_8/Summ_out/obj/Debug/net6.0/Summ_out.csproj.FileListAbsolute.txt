@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lab_8\Summ_out\bin\Debug\net6.0\Summ_out.deps.json
+C:\Users\User\source\repos\Lab_8\Summ_out\bin\Debug\net6.0\Summ_out.dll
+C:\Users\User\source\repos\Lab_8\Summ_out\bin\Debug\net6.0\Summ_out.pdb
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.dll
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\refint\Summ_out.dll
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.pdb
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\ref\Summ_out.dll
+C:\Users\User\source\repos\Lab_8\Summ_out\bin\Debug\net6.0\In_Out.dll
+C:\Users\User\source\repos\Lab_8\Summ_out\bin\Debug\net6.0\In_Out.pdb
+C:\Users\User\source\repos\Lab_8\Summ_out\obj\Debug\net6.0\Summ_out.csproj.CopyComplete

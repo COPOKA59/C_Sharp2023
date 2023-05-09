@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Lab_8\In_Out\bin\Debug\net6.0\In_Out.deps.json
+C:\Users\User\source\repos\Lab_8\In_Out\bin\Debug\net6.0\In_Out.dll
+C:\Users\User\source\repos\Lab_8\In_Out\bin\Debug\net6.0\In_Out.pdb
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.dll
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\refint\In_Out.dll
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\In_Out.pdb
+C:\Users\User\source\repos\Lab_8\In_Out\obj\Debug\net6.0\ref\In_Out.dll
