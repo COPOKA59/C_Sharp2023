@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWarehouse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Warehouse>
+    <body>А</body>
+    <tools>
+      <Appellation>
+        <name>Лопата штыковая</name>
+        <weight>2</weight>
+        <dimensions>1500х230х170</dimensions>
+        <quantity>2</quantity>
+      </Appellation>
+      <Appellation>
+        <name>Лопата совковая</name>
+        <weight>2</weight>
+        <dimensions>1400х230х170</dimensions>
+        <quantity>4</quantity>
+      </Appellation>
+    </tools>
+    <materials>
+      <Appellation>
+        <name>Алюминий волнистый</name>
+        <weight>940</weight>
+        <dimensions>32x6x0,3</dimensions>
+        <quantity>110</quantity>
+      </Appellation>
+      <Appellation>
+        <name>Сталь волнистая</name>
+        <weight>9600</weight>
+        <dimensions>1x100x30</dimensions>
+        <quantity>74</quantity>
+      </Appellation>
+    </materials>
+    <electrical_components>
+      <Appellation>
+        <name>Кабель на основе витой пары</name>
+        <weight>1000</weight>
+        <dimensions>390x230x410</dimensions>
+        <quantity>305</quantity>
+      </Appellation>
+    </electrical_components>
+  </Warehouse>
+  <Warehouse>
+    <body>Б1</body>
+    <tools>
+      <Appellation>
+        <name>Лопата совковая</name>
+        <weight>2</weight>
+        <dimensions>1400х230х170</dimensions>
+        <quantity>4</quantity>
+      </Appellation>
+    </tools>
+    <materials>
+      <Appellation>
+        <name>Алюминий волнистый</name>
+        <weight>940</weight>
+        <dimensions>32x6x0,3</dimensions>
+        <quantity>110</quantity>
+      </Appellation>
+    </materials>
+    <electrical_components>
+      <Appellation>
+        <name>Кабель на основе витой пары</name>
+        <weight>1000</weight>
+        <dimensions>390x230x410</dimensions>
+        <quantity>305</quantity>
+      </Appellation>
+    </electrical_components>
+  </Warehouse>
+  <Warehouse>
+    <body>Б2</body>
+    <tools>
+      <Appellation>
+        <name>Топор</name>
+        <weight>1</weight>
+        <dimensions>178x92x49</dimensions>
+        <quantity>11</quantity>
+      </Appellation>
+    </tools>
+    <materials>
+      <Appellation>
+        <name>Сталь волнистая</name>
+        <weight>9600</weight>
+        <dimensions>1x100x30</dimensions>
+        <quantity>74</quantity>
+      </Appellation>
+    </materials>
+    <electrical_components>
+      <Appellation>
+        <name>Коммутационный шнур</name>
+        <weight>7600</weight>
+        <dimensions>400x400x260 </dimensions>
+        <quantity>200</quantity>
+      </Appellation>
+      <Appellation>
+        <name>Коммутационная панель</name>
+        <weight>1090</weight>
+        <dimensions>520x410x240 </dimensions>
+        <quantity>12</quantity>
+      </Appellation>
+    </electrical_components>
+  </Warehouse>
+</ArrayOfWarehouse>

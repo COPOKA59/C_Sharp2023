@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLibrary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Library>
+    <district>Ленинский</district>
+    <child_literature>
+      <Book>
+        <author>Александрова Т.И.</author>
+        <title>Домовёнок Кузька</title>
+        <publishing_year>2015</publishing_year>
+      </Book>
+      <Book>
+        <author>Толстой А.Н.</author>
+        <title>Cказки</title>
+        <publishing_year>2020</publishing_year>
+      </Book>
+    </child_literature>
+    <reading_room>
+      <Book>
+        <author>Роулинг Дж.К.</author>
+        <title>Гарри Поттер и философский камень</title>
+        <publishing_year>2014</publishing_year>
+      </Book>
+      <Book>
+        <author>Роулинг Дж.К.</author>
+        <title>Гарри Поттер и узник Азкабана</title>
+        <publishing_year>2019</publishing_year>
+      </Book>
+      <Book>
+        <author>Стефани Майер</author>
+        <title>Затмение</title>
+        <publishing_year>2023</publishing_year>
+      </Book>
+    </reading_room>
+    <books_for_adults>
+      <Book>
+        <author>Джейн Остин</author>
+        <title>Гордость и предубеждение</title>
+        <publishing_year>2016</publishing_year>
+      </Book>
+      <Book>
+        <author>Одри Карлан</author>
+        <title>Calendar Girl</title>
+        <publishing_year>2017</publishing_year>
+      </Book>
+    </books_for_adults>
+  </Library>
+  <Library>
+    <district>Индустриальный</district>
+    <child_literature>
+      <Book>
+        <author>Александрова Т.И.</author>
+        <title>Домовёнок Кузька</title>
+        <publishing_year>2015</publishing_year>
+      </Book>
+    </child_literature>
+    <reading_room>
+      <Book>
+        <author>Роулинг Дж.К.</author>
+        <title>Гарри Поттер и философский камень</title>
+        <publishing_year>2014</publishing_year>
+      </Book>
+      <Book>
+        <author>Стефани Майер</author>
+        <title>Затмение</title>
+        <publishing_year>2023</publishing_year>
+      </Book>
+    </reading_room>
+    <books_for_adults>
+      <Book>
+        <author>Одри Карлан</author>
+        <title>Calendar Girl</title>
+        <publishing_year>2017</publishing_year>
+      </Book>
+    </books_for_adults>
+  </Library>
+</ArrayOfLibrary>
